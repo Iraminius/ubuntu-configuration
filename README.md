@@ -1,2 +1,7 @@
-# ubuntu-configuration
-Bash scripts for installing basic software
+# Ubuntu installation scripts
+
+Execute "ubuntu-conf" 
+< ./ ubuntu-conf
+to install:
+* git
+* Visual Code
