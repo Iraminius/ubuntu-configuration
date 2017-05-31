@@ -7,3 +7,7 @@ Execute "ubuntu-conf"
 to install:
 * git
 * Visual Code
+* Chromium
+* OBS
+* nodejs
+* Spotify
