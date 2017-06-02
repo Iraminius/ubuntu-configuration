@@ -6,6 +6,7 @@ Execute "ubuntu-conf"
 
 to install:
 * git
+* Hipchat
 * Visual Code
 * Chromium
 * OBS
